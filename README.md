@@ -1,5 +1,5 @@
 # TupleSplatter
-Splat tuples into method arguments
+Splat (or deconstruct or unpack) tuples into method arguments
 
 ``install-package TupleSplatter``
 
