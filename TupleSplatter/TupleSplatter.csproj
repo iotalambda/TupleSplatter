@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Joona Luoma</Authors>
+    <Title>TupleSplatter - Use tuple items as method parameters</Title>
+    <Company>Joona Luoma</Company>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Product>TupleSplatter</Product>
+    <Description>Deconstructs/splats tuple items into method parameter arguments</Description>
+    <PackageTags>tuple, parameter</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>TupleSplatter</PackageId>
+    <Copyright>Joona Luoma</Copyright>
+  </PropertyGroup>
+
+</Project>
