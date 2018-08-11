@@ -10,6 +10,8 @@
     <Description>Deconstructs/splats tuple items into method parameter arguments</Description>
     <PackageTags>tuple, parameter</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/chartjunk/TupleSplatter/</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/chartjunk/TupleSplatter/blob/master/LICENSE</PackageLicenseUrl>
     <PackageId>TupleSplatter</PackageId>
     <Copyright>Joona Luoma</Copyright>
   </PropertyGroup>
