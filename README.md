@@ -1,6 +1,10 @@
 # TupleSplatter
 Splat tuples into method arguments
 
+``install-package TupleSplatter``
+
+Example:
+
 ```cs
 using TupleSplatter;
 
